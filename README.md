@@ -1,2 +1,3 @@
-MERN Stack Training
+MERN Stack Training - workshop
+
 
